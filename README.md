@@ -1,15 +1,13 @@
 # 実践Djangoチュートリアル
-## Python基礎習得済みでDjangoを学び直したい方のためのプログラミングコース
 
-こちらでは Udemy 講座 で使用しているソースコードを掲載しています。
 
-  <!--[実践Djangoチュートリアル | Python基礎習得済みでDjangoを学び直したい方のためのプログラミングコース](https://www.udemy.com/course/ja-django-tutorial/learn/lecture/31931822?couponCode=9C7B4E4412F3A7D293AF)-->
+こちらでは Udemy 講座 [**実践Djangoチュートリアル | Python基礎習得済みでDjangoを学び直したい方のためのプログラミングコース**](https://www.udemy.com/course/ja-django-tutorial/?referralCode=5C7FA8B731CD1AA1FBBC) で使用しているソースコードを掲載しています。
 
-次のリンクは、他のコースも含め、クーポンも配布しています。
+次のリンクでは、他のコースも含め、クーポン配布やそのほか情報を掲載していますのでぜひ一度ご覧ください。
 
 => [講師 ホームページ](https://takux.one)
 
-本リポジトリについて、
+## 本リポジトリについて
 
 - 各セクション終了時点ごとのソースコードを各 sec フォルダへ掲載しています。必要な箇所にご活用ください。
 
