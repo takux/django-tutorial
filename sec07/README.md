@@ -1,1 +1,1 @@
-# django-tutorial
+# セクション７：はじめての Django アプリ作成、その 5
