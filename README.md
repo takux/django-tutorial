@@ -1,7 +1,7 @@
 # 実践Djangoチュートリアル
 
 
-こちらでは Udemy 講座 [**実践Djangoチュートリアル | Python基礎習得済みでDjangoを学び直したい方のためのプログラミングコース**](https://www.udemy.com/course/ja-django-tutorial/?referralCode=5C7FA8B731CD1AA1FBBC) で使用しているソースコードを掲載しています。
+こちらでは Udemy 講座 [**実践Djangoチュートリアル | Python基礎習得済みでDjangoを学び直したい方のためのプログラミングコース**](https://www.udemy.com/course/tutorial-django/?referralCode=AA58F0C79CBE92570107) で使用しているソースコードを掲載しています。
 
 次のリンクでは、他のコースも含め、クーポン配布やそのほか情報を掲載していますのでぜひ一度ご覧ください。
 
